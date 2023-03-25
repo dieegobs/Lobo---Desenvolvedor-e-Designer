@@ -92,4 +92,13 @@
     .experiencia .subtitulo{
         color: #141414;
     }
+    .experiencia-texto {
+        font-size: 1.25rem;
+    }
+    .empresa-ano{
+        position: initial;
+        order: 1;
+        width: initial;
+        text-align: left;
+    }
 }
