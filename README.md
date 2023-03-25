@@ -1,1 +1,1 @@
-﻿# Site  |  Lobo Desenvolvedor e Designer
+﻿# Site - Lobo Desenvolvedor e Designer
