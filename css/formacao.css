@@ -33,6 +33,7 @@
     flex-wrap: wrap;
     gap: 20px;
     margin-bottom: 60px;
+ 
 }
 
 .faculdade {
@@ -52,6 +53,7 @@
 }
 
 .faculdade-curso {
+    flex: 1;
     font-size: 1.125rem;
     line-height: 1.4rem;
     margin-bottom: 40px;
@@ -66,4 +68,13 @@
     background: linear-gradient(#b6f829, #67dd0a);
     position: absolute;
     left: -24px;
+}
+
+.faculdade-instituicao{
+    font-size: 1.35rem;
+    color: #a3a3a3;
+}
+
+.cursos{
+    margin-bottom: 60px;
 }
