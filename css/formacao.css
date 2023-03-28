@@ -50,3 +50,20 @@
     color: #a3a3a3;
     margin-bottom: 10px;
 }
+
+.faculdade-curso {
+    font-size: 1.125rem;
+    line-height: 1.4rem;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.faculdade-curso::before{
+    content: "";
+    display: block;
+    width: 4px;
+    height: 20px;
+    background: linear-gradient(#b6f829, #67dd0a);
+    position: absolute;
+    left: -24px;
+}
