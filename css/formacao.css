@@ -1,3 +1,8 @@
+.formacao {
+    background: #141414;
+    color: #fff;
+}
+
 .formacao-container {
     max-width: 1200px;
     padding: 40px 20px;
@@ -5,4 +10,26 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 100px;
+}
+
+.formacao .subtitulo {
+    color: #000000;
+}
+
+.formacao-texto {
+    font-size: 1.5rem;
+    line-height: 1.33rem;
+    max-width: 40ch;
+    margin-bottom: 60px;
+    color: #a3a3a3;
+}
+
+.formacao-texto strong {
+    color: #ffffff;
+}
+
+.faculdade-lista{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
 }
