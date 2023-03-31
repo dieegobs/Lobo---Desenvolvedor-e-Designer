@@ -1,5 +1,5 @@
 <h4>Tecnologias: HTML, CSS</h4>
-<h4>Site 100% responsivo</h4>
+<h3>Site 100% responsivo</h3>
 
 # Site - Lobo Desenvolvedor e Designer
 
